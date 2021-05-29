@@ -1,0 +1,21 @@
+Toledo Natalia 
+
+enp0s3: flags = 4163 <ARRIBA, BROADCAST, RUNNING, MULTICAST> MTU 1500
+         inet 192.168.1.18 máscara de red 255.255.255.0 difusión 192.168.1.255
+         inet fe80 :: fc90: 6be2: e25: 9435 prefixlen 64 scopeid 0x20 <enlace>
+         éter 08: 00: 27: 34: 8e: 3a txqueuelen 1000 (Ethernet)
+         Paquetes RX 730 bytes 883741 (883,7 KB)
+         Errores RX 0 descartados 1 desbordamientos 0 trama 0
+         Paquetes TX 645 bytes 52879 (52,8 KB)
+         Errores de TX 0 caídos 0 desbordamientos 0 portadora 0 colisiones 0
+
+lo: flags = 73 <ARRIBA, LOOPBACK, RUNNING> mtu 65536
+        inet 127.0.0.1 máscara de red 255.0.0.0
+        inet6 :: 1 prefijolen 128 scopeid 0x10 <host>
+        loop txqueuelen 1000 (Loopback local)
+        Paquetes RX 146 bytes 12584 (12,5 KB)
+        Errores RX 0 descartados 0 desbordamientos 0 marco 0
+        Paquetes TX 125 bytes 10643 (10,6 KB)
+        Errores de TX 0 caídos 0 desbordamientos 0 portadora 0 colisiones 0
+
+12.51

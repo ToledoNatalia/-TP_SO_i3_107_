@@ -1,0 +1,39 @@
+Toledo Natalia                                                                                                                                                                                                                                                                                      
+
+
+a-¿Cómo queda el maestro después de estos cambios?
+
+- Al hacer el merge de la rama con mi apellido (Toledo) , el main queda con los archivos de la rama Toledo
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+-Sí, pude ver todos los cambios si es que entraba a las ramas en las que se hacían esos cambios.
+
+c-¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+
+- Para poder hacer el merge, tuve que:
+Hacer "git checkout main" para ir a la rama principal
+Luego "git merge Toledo" para que todo lo de la rama Toledo pase a la main
+Y por último, "git push" para pushear todos los nuevos cambios al main.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

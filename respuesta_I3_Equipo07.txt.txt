@@ -1,0 +1,59 @@
+Toledo Natalia                                                                                                                                                                                                                                                                                      
+
+
+a-¿Cómo queda el maestro después de estos cambios?
+
+- Al hacer el merge de la rama con mi apellido (Toledo) , el main queda con los archivos de la rama Toledo
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+-Sí, pude ver todos los cambios si es que entraba a las ramas en las que se hacían esos cambios.
+
+c-¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+
+- Para poder hacer el merge, tuve que:
+Hacer "git checkout main" para ir a la rama principal
+Luego "git merge Toledo" para que todo lo de la rama Toledo pase a la main
+Y por último, "git push" para pushear todos los nuevos cambios al main.
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+
+-Si las ramas que son creadas quedan actualizadas.
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+
+-Hubo un conflicto entre ramas, donde tuvimos que hacer un reverse para
+poder lograr hacer el merge.
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+-Para poder hacer lo pedido:
+Pull para ver los cambios realizados.
+Ifconfig en linux
+git checkout branch Toledo
+git add .
+git commit -m
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

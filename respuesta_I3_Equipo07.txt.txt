@@ -35,8 +35,15 @@ git add .
 git commit -m
 git push
 
+g-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
 
-
+git pull
+git checkout branch Toledo
+"Theo Katz" >> beta.txt
+ifconfig -a >> beta.txt
+git add .
+git commit -m
+git push
 
 
 
